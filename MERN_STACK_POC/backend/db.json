@@ -1,0 +1,16 @@
+
+
+{
+    "get": [
+        {
+            "id":"Personal_Info",
+            "fname":"Dhruba",
+            "lname":"Dutta",
+            "Age":24
+        },
+        {
+            "id":"Project_info",
+            "project": "React Project"
+        }
+    ]
+  }
